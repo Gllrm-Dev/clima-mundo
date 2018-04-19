@@ -2,7 +2,7 @@
 
 ## Descripción
 
-> Aplicación hecha con node para obtener el clima de cualquier lugar del mundo usando APIs de Google Maps y OpenWeather.
+Aplicación hecha con node para obtener el clima de cualquier lugar del mundo usando APIs de Google Maps y OpenWeather.
 
 ## Instalacion
 
@@ -10,7 +10,10 @@
 ```javascript
 npm install
 ```
-Para ejecutar la aplicación `node app -d "Ciudad a buscar"`
+
+## Ejemplo
+
+ `node app -d "Yopal"`
 
 ## Detalles
 
